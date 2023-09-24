@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{ margin:0; padding:0; }
+.cerceve
+{
+	margin:auto;
+	width:100%;
+	height:auto;	
+}
+.banner
+{
+	float:left;
+	width:100%;
+	height:140px;
+	background:#DADADA;	
+}
+.bannerimg
+{
+	width:200px;
+	height:160px;
+	margin:-20px 0 0 120px;
+}
+.linkler
+{
+	float:right;
+	width:100px;
+	height:30px;
+	margin:-80px 100px 0 0;	
+}
+.menu
+{
+	float:left;
+	width:89.6%;
+	height:50px;
+	background:#06F;
+	padding:0 0 0 140px;
+		
+}
+.menu ul 
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.menu ul li
+{ float:left; }
+.menu ul li a
+{
+	display:block;
+	width:145px;
+	height:37px;
+	padding:13px 0 0 0;
+	text-align:center;
+	text-decoration:none;
+	font:15px "Comic Sans MS", cursive;
+	color:#FFF;
+}
+.menu ul li a:hover
+{
+	background:#FFF;
+	color:#06F;
+	border-top:solid 3px #0066FF;
+	margin:-3px 0 0 0;
+}
+.icerik
+{
+	float:left;
+	width:100%;
+	height:500px;	
+}
+.tarih
+{
+	float:left;
+	width:100%;
+	height:auto;
+	background:#FFF;
+	font-family: 'Josefin Sans', sans-serif;
+	padding:20px 0 0 0;
+	margin:0 0 20px 0;
+}
+.tarihbaslik
+{ margin:0 0 0 5px; font-size:18px; font-family: 'Fjalla One', sans-serif; }
+.tarihyazisi
+{
+	width:200px;
+	height:50px;
+	border-bottom:solid 2px #0066FF;
+	text-align:center;
+	margin:0 0 0 600px;
+	font:bold 35px Arial, Helvetica, sans-serif;
+	color:#000;
+}
+.footer
+{
+	float:left;
+	width:100%;
+	height:180px;
+	background:#FFF;
+}
+.footeribb
+{
+	float:left;
+	width:160px;
+	height:160px;
+	margin:0 0 0 30px;
+}
+.footerfoto
+{
+	float:left;
+	width:470px;
+	height:150px;
+	margin:0 0 0 220px;
+}
+.footermenu
+{
+	float:right;
+	width:200px;
+	height:150px;
+}
+.footermenu ul
+{
+	margin:0; padding:0;	
+}
+.footermenu ul li a
+{
+	display:block;
+	text-align:left;
+	margin: 0 0 5px 0;
+	text-decoration:none;
+	font:15px Georgia, "Times New Roman", Times, serif;
+	color:#0066FF;
+}
+.camiyazi
+{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000000;	
+}
+.dgborder
+{
+	border:solid 1px #FFF;	
+}
+.dgborder:hover
+{
+	border:solid 1px #000;	
+}
+.kayitolrenk
+{ text-align:center;}
+.menubar
+{
+	float:left;
+	width:10%;
+	height:auto;
+	padding:0 0 0 10px;
+	margin:100px 0 0 0;
+	
+}
+.iletisimtablo
+{
+	float:right;
+	width:auto;
+	height:auto;
+	margin:0 280px 0 0 ;
+	
+}
